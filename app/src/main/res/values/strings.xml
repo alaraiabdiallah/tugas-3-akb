@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas 3 AKB</string>
+    <string name="prefs_key">me.alarai.tugas3akb.app_prefs</string>
+    <string name="page_one_desc_txt">Anda harus memasukkan nama anda untuk identitas.</string>
+    <string name="nama_txt">Nama Anda</string>
+    <string name="next_txt">Selanjutnya</string>
+    <string name="nama_empty_txt">Nama harus diisi</string>
+    <string name="add_todo_txt">Tambah Todo</string>
+    <string name="todo_name_txt">Todo</string>
+    <string name="todo_desc_txt">Description</string>
+</resources>
